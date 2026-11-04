@@ -1,34 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Web+and+app+developer+++++++++++)](https://git.io/typing-svg)
+# Phong Le
 
-<h2 align="center">Hi there 👋, I'm Le Van Phong! Welcome to my GitHub Profile !!!</h2>
+Frontend-focused full-stack developer · 5 years in IT · Da Nang, Vietnam
+React · TypeScript · Next.js. Previously outsourced on a US book-community platform.
 
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=phonglv-dn&column=9&theme=gruvbox&no-frame=true"/>
+## Now
+- Building a self-hosted Vietnamese/English text-to-speech service
+- Building a local-first personal finance app for iPhone
+- Daily work with coding agents (MCP, Claude Code/Codex)
 
-![Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=phonglv-dn&show_icons=true&theme=tokyonight)
+## How I work with AI
+- Agents draft; I own design, review, and verification.
+- Small diffs, targeted tests, resource-capped runs.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phonglv-dn&layout=compact)
+## Stack
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,mongodb,git&theme=dark" alt="Tech stack" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phonglv-dn&theme=neon-palenight&hide_border=true)
+## Selected projects
+| Project | What it does | Stack |
+|---|---|---|
+| [my-master-ecommerce](https://github.com/phonglv-dn/my-master-ecommerce) | Multi-language, multi-currency storefront | Next.js, TypeScript |
+| [ethan-blog-fe](https://github.com/phonglv-dn/ethan-blog-fe) | Personal tech blog | Next.js |
 
-
-<h3 align="left">Languages and frameworks:</h3>
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-<h3 align="left">Tools:</h3>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+## Contact
+[LinkedIn](https://www.linkedin.com/in/your-handle) <!-- TODO: replace with real LinkedIn URL -->
