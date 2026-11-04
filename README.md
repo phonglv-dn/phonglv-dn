@@ -20,6 +20,3 @@ React · TypeScript · Next.js. Previously outsourced on a US book-community pla
 |---|---|---|
 | [my-master-ecommerce](https://github.com/phonglv-dn/my-master-ecommerce) | Multi-language, multi-currency storefront | Next.js, TypeScript |
 | [ethan-blog-fe](https://github.com/phonglv-dn/ethan-blog-fe) | Personal tech blog | Next.js |
-
-## Contact
-[LinkedIn](https://www.linkedin.com/in/your-handle) <!-- TODO: replace with real LinkedIn URL -->
