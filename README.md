@@ -12,26 +12,20 @@
 
 Frontend-focused full-stack developer with 5 years in IT. Previously outsourced on a US book-community platform, now working on product teams with React, TypeScript, and Next.js.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔭 Now
 - Building a self-hosted Vietnamese/English text-to-speech service
 - Building a local-first personal finance app for iPhone
-- Daily work with coding agents (MCP, Claude Code/Codex)
 
-</td>
-<td width="50%" valign="top">
+### 🤖 AI engineering workflow
+I treat the coding agent as a system to engineer, not a chat box. The goal: less manual glue, more automation, and an agent that already knows my context.
 
-### 🤖 How I work with AI
-- Agents draft; I own design, review, and verification
-- Small diffs, targeted tests, resource-capped runs
-- Specs and context first, code second
-
-</td>
-</tr>
-</table>
+| Layer | What I set up |
+|---|---|
+| **Harness** | Terminal coding agent with custom rules, ~20 reusable skills (TDD, debugging, code review, planning) and role-based subagents that run in parallel with isolated context |
+| **Context** | Persistent memory and project rules, so every session starts with my conventions, constraints, and lessons from earlier work; new lessons get captured and reused |
+| **Integrations** | MCP servers for GitHub, Linear, Sentry, and Slack, so tickets, PRs, errors, and messages are reachable from the same session |
+| **Guardrails** | Explicit rules for git safety, resource limits, and verification before anything counts as done |
+| **Automation** | Personal tools built on LLM APIs, e.g. an assistant that analyzes Linear tickets |
 
 ### 🧰 Stack
 
