@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Phong Le, frontend-focused full-stack developer" width="100%" />
+<img src="assets/banner.svg" alt="Ethan Le, frontend-focused full-stack developer" width="100%" />
 
 <br />
 
